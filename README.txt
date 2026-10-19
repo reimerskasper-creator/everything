@@ -8,4 +8,4 @@ EVERYTHING. V1 — Track Anything
 
 This is a local-only prototype. No login, cloud sync, encryption or native Android widgets.
 Export backups regularly from Settings. Avoid storing sensitive financial or personal details.
-Connections are one-way and trigger only on positive log entries. Existing records are not retroactively changed.
+Connections are one-way and trigger only on positive log entries. Existing records are not retroactively changed.EVERYTHING V1
